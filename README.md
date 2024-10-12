@@ -16,9 +16,9 @@
         a {
             text-decoration: none;
             color: white;
-            
         }
-/* Header styles */
+
+        /* Header styles */
         header {
             background-color: #2c3e50;
             color: white;
@@ -44,8 +44,7 @@
             display: inline;
             margin: 0 15px;
         }
-    
-/* Hero section */
-        .hero {
 
+        /* Hero section */
+        .hero {
   
