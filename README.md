@@ -19,17 +19,14 @@
             </ul>
         </nav>
     </header>
-    
     <section id="home">
         <h2>The Future of Smart Living Starts Here</h2>
         <p>SmartNest brings cutting-edge technology to your home, giving you control over your appliances, energy, and security at the tip of your fingers.</p>
     </section>
-
     <section id="about">
         <h2>About SmartNest</h2>
         <p>We at SmartNest are passionate about making your home smarter and more efficient. Our product integrates seamlessly into your home, providing convenience and peace of mind.</p>
     </section>
-
     <section id="products">
         <h2>Our Products</h2>
         <p>Explore our range of smart home products that enhance security, convenience, and energy efficiency.</p>
@@ -39,7 +36,6 @@
             <li>Energy Management Solutions</li>
         </ul>
     </section>
-
     <section id="contact">
         <h2>Contact Us</h2>
         <p>Have questions or need a demo? Reach out to us!</p>
@@ -50,7 +46,6 @@
             <button type="submit">Send</button>
         </form>
     </section>
-
     <footer>
         <p>© 2024 SmartNest. All rights reserved.</p>
     </footer>
