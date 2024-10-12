@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SmartNest - Smart Home Automation</title>
     <style>
-        /* Global styles */
+        
+        
+/* Global styles */
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
@@ -18,7 +20,7 @@
             color: white;
         }
 
-        /* Header styles */
+ /* Header styles */
         header {
             background-color: #2c3e50;
             color: white;
@@ -45,6 +47,6 @@
             margin: 0 15px;
         }
 
-        /* Hero section */
+ /* Hero section */
         .hero {
   
